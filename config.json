@@ -1,0 +1,5 @@
+{
+    "guild": <GUILD_ID>,
+    "verifyChannel": <CHANNEL_ID>,
+    "verifyLogs": <CHANNEL_ID>
+}
